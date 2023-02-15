@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Dangrek', cursive;
+    color: rgb(255, 255, 255);
+    
+}
+canvas{
+    border: 5px solid rgb(49, 75, 52);
+    text-align: center;
+}
+.header{
+    background-color: rgb(83, 197, 108);
+    width: 100%;
+    text-align: center;
+    border: 5px solid rgb(49, 75, 52);
+}
+.copyright{
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(83, 197, 108);
+    width: 100%;
+    text-align: center;
+    border: 5px solid rgb(49, 75, 52);
+}
